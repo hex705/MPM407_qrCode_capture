@@ -9,7 +9,7 @@ import processing.video.*;
     to use with beta you must find the following insetup and uncommentit
     video.start();
 
-/*
+*/
 
 
 

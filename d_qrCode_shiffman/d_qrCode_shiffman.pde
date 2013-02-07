@@ -3,7 +3,8 @@ import processing.video.*;
 import pqrcode.*;
 
 // don't have pqrcode yet?  Get it here:
-http://www.shiffman.net/p5/pqrcode/
+
+//http://www.shiffman.net/p5/pqrcode/
 
 //install as you would any other library
 
@@ -15,6 +16,8 @@ http://www.shiffman.net/p5/pqrcode/
     
     to use with beta you must find the following insetup and uncommentit
     video.start();
+    
+*/
 
 /*
 

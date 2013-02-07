@@ -1,15 +1,17 @@
 
+//  this is not a functional file -- its intention is only 
+//  to reveal the structure of using the QR code library. 
 
-// don't have pqrcode library?  Get it here:
+//  don't have pqrcode library?  Get it here:
 
-http://www.shiffman.net/p5/pqrcode/
+//  http://www.shiffman.net/p5/pqrcode/
 
-//install as you would any other library
+// install as you would any other library
 
 
 import pqrcode.*;
 
- 
+String statusMsg = "test message";
 // Decoder object from prdecoder library
 Decoder decoder;
 

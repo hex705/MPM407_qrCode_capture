@@ -9,9 +9,9 @@ import processing.video.*;
     to use with beta you must find the following insetup and uncommentit
     video.start();
 
+*/
+
 /*
-
-
  QRcode reader
  Generate images from a QRcode generator such as
  http://qrcode.kaywa.com/ and put them in this sketch's
